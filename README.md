@@ -1,20 +1,17 @@
-### Hi there 👋
+<h3 align="center">Hey there, I'm Sourav Das <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
-<!--
-**Esarve/Esarve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://twitter.com/esarvesrv"><img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/twitter/follow/esarvesrv?color=blue&label=Twitter&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/Esarve"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/esarve?label=Github&logo=github&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/srvsourav/"><img alt="followers" title="Linked In" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+### 🤵 About Me:
+- 🏦 I'm currently working for a year on Android
+- 🤔 I use daily Java and Kotlin for development
+- 🌱 I’m learing new technologies and clean architecture
+- 😄 I love linux, bash and enjoy working with system level stuffs
+- 🎮 I love to play games in my free time
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -37,7 +34,13 @@ Here are some ideas to get you started:
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - 💻 &nbsp;
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
   ![Android](https://img.shields.io/badge/Android-3ddb84?style=for-the-badge&logo=android&logoColor=white)
+
+![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Esarve&show_icons=true&theme=tokyonight)&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
