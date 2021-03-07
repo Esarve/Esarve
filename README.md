@@ -8,9 +8,9 @@
 
 ### 🤵 About Me:
 - 🏦 I'm currently working for a year on Android
-- 🤔 I use daily Java and Kotlin for development
+- 🤓 I use Java and Kotlin for development
 - 🌱 I’m learing new technologies and clean architecture
-- 😄 I love linux, bash and enjoy working with system level stuffs
+- 😄 I love Linux, Bash and enjoy working with system level stuffs
 - 🎮 I love to play games in my free time
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
