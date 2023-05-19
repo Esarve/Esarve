@@ -7,7 +7,7 @@
 </p>
 
 ### 🤵 About Me:
-- 🏦 I'm currently working for more than 2 years on Android
+- 🏦 I'm currently working for more than 3 years on Android Native & Flutter
 - 🤓 I use Java and Kotlin for development
 - 🌱 I’m learing new technologies and clean architecture
 - 😄 I love Linux, Bash and enjoy working with system level stuffs
